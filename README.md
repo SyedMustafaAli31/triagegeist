@@ -18,18 +18,6 @@ This project is a submission to the [Triagegeist Kaggle Competition](https://kag
 | Max Demographic Bias Gap | <0.35% |
 | Features Used | 186 |
 
-## Repository Structure
-
-```
-triagegeist/
-├── triagegeist_notebook.py    # Complete Kaggle notebook
-├── triagegeist_writeup.md     # Project writeup (1,350 words)
-├── triagegeist_demo.jsx       # Interactive prediction demo
-├── cover_image.png            # Competition cover image (560×280)
-├── submission.csv             # Test set predictions (20,000 patients)
-├── feature_importances.csv    # All 186 features ranked
-└── README.md                  # This file
-```
 
 ## Methodology
 
